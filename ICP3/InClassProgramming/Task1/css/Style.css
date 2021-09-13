@@ -1,0 +1,41 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+*{
+    font-family: 'Rambla', sans-serif;
+}
+.profile-pic
+{
+  max-height: 70%;
+  max-width: 70%;
+}
+.works{
+  max-height: 100%;
+  max-width: 100%;
+}
+h1,a
+{
+  color:#747704;
+}
+h2,h3
+{
+  color:#BCBBBB;
+}
+.mainpic
+{
+  width:1140px;
+  height:350px;
+}
+
+.prof-pic
+{
+  margin-top:2%;
+}
+
+hr{
+   border: solid #BCBBBB;
+}
