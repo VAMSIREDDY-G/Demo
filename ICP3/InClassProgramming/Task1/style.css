@@ -1,0 +1,32 @@
+#scissors,#rock,#paper{
+  font-size:90px; padding:5%;
+}
+
+#scissors
+{
+  color:green;
+}
+
+#rock
+{
+  color:red;
+}
+
+#paper
+{
+  color:blue;
+}
+body{
+  margin-top: 5%;
+  margin-bottom: 15%;
+  margin-right: 15%;
+  margin-left: 20%;
+}
+.container
+{
+  max-width:100%;
+}
+.col-md-4,.col-md-12
+{
+  padding:2%;
+}
