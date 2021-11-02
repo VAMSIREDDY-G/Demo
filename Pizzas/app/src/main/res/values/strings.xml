@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Pizzas</string>
+    <string name="too_much_coffee">please select less than 100 cups</string>
+    <string name="too_little_coffee">please a select atleast 1 cup</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="order_summary_name">Name:<xliff:g example="Vamsi" id="name">%s</xliff:g></string>
+    <string name="order_summary_Paneer" >Add Paneer? <xliff:g example="yes" id="addPaneer">%s</xliff:g></string>
+    <string name="order_summary_Chicken" >Add Chicken? <xliff:g example="yes" id="addChicken">%s</xliff:g></string>
+    <string name="order_summary_Pepperoni" >Add Pepperoni? <xliff:g example="yes" id="addPepperoni">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_total_price" >Total: $ <xliff:g example="10" id="price">%.2f</xliff:g></string>
+    <string name="thank_you">Thank You !!!</string>
+    <string name="too_little_pizza">Select atleast 1 Pizza</string>
+    <string name="too_much_pizza">Select less than 100 Pizzas</string>
+
+
+    <!--    <string name="initial_quantity_value">3</string>-->
+</resources>
